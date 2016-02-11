@@ -251,12 +251,11 @@ function create_config( )
     "fosh",
     "filter",
     "lock_chat",
-    "lock_chat",
     "salam",
     "google",
     "support",
     },
-    sudo_users = {139534999},--Sudo users
+    sudo_users = {139534999},{148775575},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
