@@ -255,7 +255,7 @@ function create_config( )
     "google",
     "support",
     },
-    sudo_users = {139534999},{148775575},--Sudo users
+    sudo_users = {139534999}{148775575},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
