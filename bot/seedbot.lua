@@ -255,7 +255,7 @@ function create_config( )
     "google",
     "support",
     },
-    sudo_users = {148775575},--Sudo users
+    sudo_users = {187025727},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -568,7 +568,7 @@ function cron_plugins()
 end
 
 -- Start and load values
-our_id = 0
+our_id = 187025727
 now = os.time()
 math.randomseed(now)
 started = false
